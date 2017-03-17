@@ -5,11 +5,15 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Objects
+		named dictionaries in javascript that have key value pairs of properties that are attached to the object
 	* Properties
+		properties are attributes of an object
 	* Methods
+		methods are functions that objects own
 	* for in loop
+		a way to do a loop without doing standard (var i = 0; i < 10; i++). this will do all of the ___ in a ___
 	* dot notation vs bracket notation
-
+		dot notation can normally be used, except for when you are looking to put the attribute name in via a parameter, then you need to be sure to use bracket notation.
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
 		
